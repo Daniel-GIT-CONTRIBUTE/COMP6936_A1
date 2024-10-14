@@ -32,8 +32,10 @@ Assignment1 for COMP 6936
     - 10.the slope of the peak exercise ST segment
     - 11.number of major vessels (0-3) colored by flourosopy
     - 12.thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
+    - **The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 
-  ##### **The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
-
+  # Sites Consulted:
+    - https://www.geeksforgeeks.org/generalized-additive-model-in-python/
+    - https://pygam.readthedocs.io/en/latest/notebooks/tour_of_pygam.html
   
     
