@@ -7,6 +7,7 @@ Assignment1 for COMP 6936
 # How to run:
   - use a .ipynb software like Google Colab or Jupyter
   - OR run the .py file but the dependent libraries must all be installed
+  - OR view the compiled project here in GITHUB
 # Data used:
   - source: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
   - description: Context
