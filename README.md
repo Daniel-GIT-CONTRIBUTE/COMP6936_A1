@@ -4,7 +4,9 @@ Assignment1 for COMP 6936
 # Dependencies:  
   - Jupyter Lab, Jupyter Notebook, Google Colab, or any program that reads .ipynb file
   - numpy, pandas, seaborn, pygam, sklearn, matplotlib
-
+# How to run:
+  - use a .ipynb software like Google Colab or Jupyter
+  - OR run the .py file but the dependent libraries must all be installed
 # Data used:
   - source: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
   - description: Context
