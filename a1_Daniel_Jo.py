@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import seaborn as sns
-from scipy.special import expit
 from pygam import LinearGAM, LogisticGAM, s, f
 from sklearn.model_selection import KFold, StratifiedKFold
 from sklearn.metrics import roc_curve, precision_recall_curve, auc, f1_score, roc_auc_score, precision_score
